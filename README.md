@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **HTML & CSS**
-🙌🙌🙌
+- 🔭 I’m currently working on **Sahabat Ilmu**
+- 🌱 I’m currently learning **HTML & CSS**
+- 🙌🙌🙌
 ![hello everyone](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFlZm4xODRrMmY0cHFtenZrY3oyMTcxaW93NzV3YmwyMWowYW5ociZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif)
