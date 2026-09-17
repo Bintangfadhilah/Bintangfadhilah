@@ -1,5 +1,4 @@
-## Hello everyone!! i'm Bintang Fadhilah 👋
-
+![alt text](github-header-banner.png)
 <!--
 **Bintangfadhilah/Bintangfadhilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![hello everyone](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFlZm4xODRrMmY0cHFtenZrY3oyMTcxaW93NzV3YmwyMWowYW5ociZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif)
 - 🔭 I’m currently working on **Sahabat Ilmu**
 - 🌱 I’m currently learning **HTML & CSS**
 - 🙌🙌🙌
-- ![hello everyone](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFlZm4xODRrMmY0cHFtenZrY3oyMTcxaW93NzV3YmwyMWowYW5ociZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif)
+### Skills
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+-----------------------------
+### Connent with me
+![https://www.instagram.com/bint.elbae/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Bintangfadhilah](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.tiktok.com/@bin.wae](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://medium.com/@mhmmadbinn19](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
